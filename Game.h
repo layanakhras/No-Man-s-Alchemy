@@ -1,10 +1,7 @@
 /*****************************************
 ** File: Game.h
-** Project: CMSC 202 Project 2, Spring 2021
+** Project: No Man's Alchemy
 ** Author: Layan Akhras
-** Date: 3/11/21
-** Section: 50/51
-** E-mail: lakhras1@umbc.edu
 **
 ** This file contains the Game class,
 ** member variables, and public function
