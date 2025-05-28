@@ -1,11 +1,7 @@
 /*****************************************
 ** File: Material.h
-** Project: CMSC 202 Project 2, Spring 2021
+** Project: No Man's Alchemy
 ** Author: Layan Akhras
-** Date: 3/11/21
-** Section: 50/51
-** E-mail: lakhras1@umbc.edu
-**
 ** This file contains the Material struct
 ** and member variables for the No Man's
 ** Alchemy game.
